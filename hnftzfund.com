@@ -1,0 +1,9 @@
+<body>
+<p>您正在访问的域名可以转让!</p>
+<p>hnftzfund.com</p>
+<p>域名简介</p>
+<p>海南自贸区基金</p>
+<p>联系方式/contact</p>
+<p>QQ:79700550</p>
+<p>79700550@qq.com</p>
+</body>
